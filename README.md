@@ -12,8 +12,8 @@ Python regression pipeline predicting car fuel efficiency with preprocessing, sc
 - Cross-validated R-squared: [max: 0.89, min: 0.77, mean: 0.85]
 - Cross-validated R-squared: [max: 3.18, min: 1.72, mean: 2.24]
 ## Visuals
-! [Predicted vs Actual] ()
+! [Predicted vs Actual] (images/scatterplot.png)
 ## How to run
-Open to explore the analysis.
+Open 'notebooks/fuel_efficiency_analysis' to explore the analysis.
 ## View Notebook
 You can view this notebook directly on GitHub 
