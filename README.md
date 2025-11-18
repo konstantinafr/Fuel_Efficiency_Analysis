@@ -14,6 +14,6 @@ Python regression pipeline predicting car fuel efficiency with preprocessing, sc
 ## Visuals
 ! [Predicted vs Actual] (images/scatterplot.png)
 ## How to run
-Open 'notebooks/fuel_efficiency_analysis' to explore the analysis.
+Open 'notebooks/fuel_efficiency_analysis.ipynb' to explore the analysis.
 ## View Notebook
 You can view this notebook directly on GitHub 
